@@ -14,3 +14,8 @@
 
 * Blowout [en]
 * Durchbruch [de]
+
+#
+
+* enterprise grade
+* auf Unternehmen abgestimmt
