@@ -19,3 +19,8 @@
 
 * enterprise grade
 * auf Unternehmen abgestimmt
+
+#
+
+* the onus is on you
+* es liegt an Ihnen
