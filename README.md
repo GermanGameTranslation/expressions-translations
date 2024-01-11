@@ -29,3 +29,8 @@
 
 * one-trick pony [in context of saying (doing) one thing repeatedly]; broken record
 * Sprung in der Platte
+
+#
+
+* break the mold; breaking the mold
+* neue Wege gehen
