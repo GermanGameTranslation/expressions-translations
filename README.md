@@ -34,3 +34,8 @@
 
 * break the mold; breaking the mold
 * neue Wege gehen
+
+#
+
+* bad boy
+* schlimmer Finger
